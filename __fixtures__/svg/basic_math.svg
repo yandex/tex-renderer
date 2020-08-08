@@ -1,0 +1,19 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="8.258ex" height="2.624ex" style="vertical-align: -0.28ex;" viewBox="0 -1009.4 3555.5 1129.9" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">E=mc^{2}</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-STIXWEBNORMALI-1D438" d="M734 653l-42 -158h-16c1 13 2 24 2 35c-3 74 -58 87 -109 87h-160l-60 -248h80c60 0 104 13 126 95h16l-58 -242h-17c1 13 6 43 6 60c0 47 -41 51 -72 51h-90l-66 -258c-1 -4 -2 -7 -2 -10c0 -16 16 -27 63 -27h67c158 0 214 47 257 160h16l-66 -198h-571l4 16h19 c73 0 96 28 104 62l120 488c4 18 5 29 5 36c0 24 -16 35 -75 35h-19l4 16h534Z"></path>
+<path stroke-width="1" id="E1-STIXWEBMAIN-3D" d="M637 320h-589v66h589v-66zM637 120h-589v66h589v-66Z"></path>
+<path stroke-width="1" id="E1-STIXWEBNORMALI-1D45A" d="M667 107l13 -11c-32 -54 -84 -104 -131 -104c-22 0 -39 10 -39 49c0 7 1 17 6 37l56 221c4 14 6 23 6 40c0 20 -6 38 -24 38c-54 0 -164 -181 -179 -242l-34 -135h-79l77 299c2 9 5 25 5 40c0 20 -5 38 -23 38c-52 0 -162 -181 -178 -242l-35 -135h-78l95 374 c0 18 -6 31 -33 31c-8 0 -19 -1 -27 -2l-2 14l157 24l-44 -169h6c94 143 154 169 192 169c37 0 55 -37 55 -81c0 -17 -3 -32 -9 -52l-10 -36h5c29 52 81 114 130 147c22 15 41 22 61 22c36 0 54 -26 54 -71c0 -18 -1 -37 -7 -61l-61 -231c-1 -3 -2 -9 -2 -12 c0 -8 6 -12 15 -12c17 0 43 16 62 53Z"></path>
+<path stroke-width="1" id="E1-STIXWEBNORMALI-1D450" d="M363 111l12 -13c-51 -60 -113 -109 -198 -109c-97 0 -137 78 -137 155c0 140 121 297 263 297c50 0 97 -27 97 -76c0 -38 -16 -70 -54 -70c-26 0 -38 21 -38 38c0 24 29 36 29 58c0 12 -10 21 -34 21c-119 0 -176 -179 -176 -259c0 -87 49 -109 94 -109 c61 0 107 33 142 67Z"></path>
+<path stroke-width="1" id="E1-STIXWEBMAIN-32" d="M474 137l-54 -137h-391v12l178 189c94 99 130 175 130 260c0 91 -54 141 -139 141c-72 0 -107 -32 -147 -130l-21 5c21 117 85 199 208 199c113 0 185 -77 185 -176c0 -79 -39 -154 -128 -248l-165 -176h234c42 0 63 11 96 67Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-STIXWEBNORMALI-1D438" x="0" y="0"></use>
+ <use xlink:href="#E1-STIXWEBMAIN-3D" x="1012" y="0"></use>
+ <use xlink:href="#E1-STIXWEBNORMALI-1D45A" x="1975" y="0"></use>
+<g transform="translate(2686,0)">
+ <use xlink:href="#E1-STIXWEBNORMALI-1D450" x="0" y="0"></use>
+ <use transform="scale(0.707)" xlink:href="#E1-STIXWEBMAIN-32" x="587" y="583"></use>
+</g>
+</g>
+</svg>
