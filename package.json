@@ -35,12 +35,16 @@
     "svgo": "1.3.2"
   },
   "engines": {
-    "node": ">=10"
+    "node": ">=12"
   },
   "devDependencies": {
     "buffer-json": "2.0.0",
     "fs-extra": "9.0.1",
     "jest": "^26.2.2",
     "looks-same": "7.2.3"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
   }
 }
