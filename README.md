@@ -1,5 +1,10 @@
 ## Math Renderer - микросервис рендеринга TeX
 
+![npm (scoped)](https://img.shields.io/npm/v/@yandex/tex-renderer)
+![node-current](https://img.shields.io/node/v/@yandex/tex-renderer)
+![Node.js CI](https://github.com/yandex/tex-renderer/workflows/Node.js%20CI/badge.svg)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/27f8b6d5e693e5edd62c/test_coverage)](https://codeclimate.com/github/yandex/tex-renderer/test_coverage)
+
 ### Возможности
 - отдает картинку по переданной TeX формуле
 - поддерживаемые форматы: `png` и `svg`
