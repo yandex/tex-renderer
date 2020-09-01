@@ -1,6 +1,6 @@
 ## Math Renderer - микросервис рендеринга TeX
 
-![npm (scoped)](https://img.shields.io/npm/v/@yandex/tex-renderer)
+[![npm (scoped)](https://img.shields.io/npm/v/@yandex/tex-renderer)](https://www.npmjs.com/package/@yandex/tex-renderer)
 ![node-current](https://img.shields.io/node/v/@yandex/tex-renderer)
 ![Node.js CI](https://github.com/yandex/tex-renderer/workflows/Node.js%20CI/badge.svg)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/27f8b6d5e693e5edd62c/test_coverage)](https://codeclimate.com/github/yandex/tex-renderer/test_coverage)
@@ -10,6 +10,30 @@
 - поддерживаемые форматы: `png` и `svg`
 - масштабирование изображения
 - оптимизация результата с помощью `svgo` и `pngquant`
+
+### Установка
+#### Как сервис
+```bash
+docker run -p 3000:3000 meison/tex-renderer
+```
+
+**Проверка:**
+```bash
+curl "http://localhost:3000/process?tex=E=mc^{2}"
+```
+
+#### Как пакет
+```bash
+npm i @yandex/tex-renderer
+```
+
+**Использование:**
+```js
+const renderer = require('@yandex/tex-renderer');
+
+renderer();
+```
+
 
 ### Описание API
 GET `/process` - рендерит и возращает картинку:

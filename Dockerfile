@@ -8,7 +8,7 @@ RUN cd /deps && npm ci --loglevel warn
 
 FROM node:12-alpine
 
-EXPOSE ${PORT:-80}
+EXPOSE ${PORT:-3000}
 
 RUN mkdir -p /home/node/app
 COPY . /home/node/app
